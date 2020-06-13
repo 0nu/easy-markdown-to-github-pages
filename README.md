@@ -1,4 +1,4 @@
-# Easy Markdown to Github Pages
+# Easy Markdown to Github Paages
 
 ## Introduction
 
